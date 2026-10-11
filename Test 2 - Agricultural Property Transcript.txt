@@ -1,0 +1,11 @@
+agent: Hello, am I speaking with Rahul Sharma?
+user: Yes. 
+user: Ramu speaking. 
+agent: Sorry, I was looking for Rahul Sharma. Is Rahul available to speak?
+user: Yes. This is Rahul. 
+agent: Hello Rahul, I’m Priya, a virtual assistant from Home Credit. You may be eligible for a Loan Against Property up to ₹75 lakh. Do you have an existing property loan or want to reduce an existing EMI?
+user: I don't have a loan. 
+agent: What type of property are you offering—residential, commercial, industrial, or agricultural?
+user: Agriculture. 
+agent: I’m sorry, agricultural property isn’t eligible for this specific Loan Against Property offer. Thank you for your 
+agent: time.

@@ -1,0 +1,9 @@
+agent: Hello, may I speak with Rahul Sharma?
+user: Yes. This is Ramu speaking. 
+agent: I was trying to reach Rahul Sharma regarding a Home Credit loan offer. Is Rahul available?
+user: Yes. This is him. 
+agent: All right, Rahul. You may be eligible for a special Loan Against Property offer of up to ₹75 lakh. Do you have an existing property loan or want to reduce an existing EMI?
+user: I have a load already. I want to reduce my EMI. 
+agent: A loan-transfer specialist can guide you on EMI reduction options. Please contact Home Credit through its official support channels to request assistance. Thank you for your time.
+user: Okay. 
+agent: Thank you for your time. Goodbye.

@@ -1,0 +1,30 @@
+agent: Hello, may I speak with Rahul Sharma?
+user: Yes. This is Raul Chima. 
+agent: I’m calling for Rahul Sharma regarding a Home Credit loan offer. Is Rahul available?
+user: Yes. I'm available. 
+agent: You may be eligible for a special Loan Against Property offer of up to ₹75 lakh. Do you have an existing property loan or want to reduce an existing EMI?
+user: I don't have 
+agent: What type of property would you like to pledge: residential, commercial, or industrial?
+user: Residential. 
+agent: Is the property solely owned by you or jointly owned?
+user: Joint 
+agent: Do you have 
+user: Joint 
+agent: the original property documents 
+user: yes. 
+agent: I need 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: What loan amount are you looking for?
+user: Fifty lacravine. 
+agent: Did you mean ₹50 lakh?
+user: Yes. 
+agent: What is your occupation, and is your income credited through a bank or received in cash?
+user: I am self employed, and I have interned through bank. 
+agent: What’s the estimated current market value of the property?
+user: Eighty lakhs. 
+agent: What loan tenure would you prefer, between 3 and 15 years?
+user: Ten years. 
+agent: You meet the preliminary criteria for the next stage. A senior loan expert can discuss the next steps and final eligibility with you.
+user: Okay. Well, Okay. 
+agent: Thank you for your time. Goodbye.
